@@ -7,6 +7,7 @@ Some Challenge for 1 afternoon
 ### start application locally
 ### Requires PHP 8.2
 ```bash
+composer install
 cp .env.example .env
 php artisan key:generate
 php artisan serve
