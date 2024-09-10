@@ -25,6 +25,10 @@ GET /api/products
 GET /api/cart
 POST /api/cart?id=<product id>
 ```
+### Web Routes
+```
+GET /
+```
 
 ## DB Structure
 ### Products
